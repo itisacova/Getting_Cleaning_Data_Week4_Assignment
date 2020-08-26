@@ -1,6 +1,3 @@
-#Irina Bernal 
-# 26 August, 2020
-
 # Input UCI HAR Dataset was downloaded from:
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
