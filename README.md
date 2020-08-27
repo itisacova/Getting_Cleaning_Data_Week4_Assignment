@@ -8,7 +8,7 @@ The full description of the data used in this projects: http://archive.ics.uci.e
 The data source for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The repository contains the following scripts and documentation: 
-1.	“Run_analysis.R” script that performed the following: 
+1.	“run_analysis.R” script that performed the following: 
   a.	Merged the training and the test sets to create one data set.
   b.	Extracted only the measurements on the mean and standard deviation for each measurement.
   c.	Used descriptive activity names to name the activities in the data set
