@@ -88,4 +88,4 @@ TidyDataset <- aggregate(NewMergedDataset[,names(NewMergedDataset)
                         subjectId = NewMergedDataset$subjectId), mean)
 
 # Export TidyDataset file
-write.table(TidyDataset, "./FinalTidyDataset")
+write.table(TidyDataset, "./FinalTidyDataset", row.name = FALSE)
