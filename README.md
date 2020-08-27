@@ -15,6 +15,6 @@ The repository contains the following scripts and documentation:
   d.	Appropriately labeled the data set with descriptive variable names.
   e.	Created a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-2.	“TidyDataset.txt” that provides the output from the Run_analysis.R script
+2.	“FinalTidyDataset.txt” that provides the output from the Run_analysis.R script
 
 3.	“CodeBook.md” that describes the variables, the data, and transformations performed to clean up the data.
